@@ -1,16 +1,53 @@
-# React + Vite
+# Coffee Shop Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+### Modern and responsive design (Mobile, Tablet & Desktop friendly)
+- Works well on all devices, from mobile phones to desktops.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Coffee Menu with Images and Descriptions
+- Display hot & cold coffee options with clear images.
 
-## React Compiler
+### Bakery & Snack Items Section
+- Showcase muffins, croissants, and other snacks.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Smooth Navigation
+- Easy to navigate between pages and sections.
 
-## Expanding the ESLint configuration
+### Styled with Tailwind CSS
+- Fast and customizable UI using Tailwind.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Fast Performance with Vite
+- Optimized for speed and efficient loading.
+
+### Reusable React Components
+- Components can be reused across the website.
+
+## How to Run the Project
+
+### Clone the repository
+- https://github.com/nuwangikaushalya6-123/Assignment2.git
+### Navigate to the project folder
+- cd coffeeShop
+### Install dependencies
+- npm install
+### Run the development server
+- npm run dev
+### Open in browser
+- After running the command, open the link shown in the terminal
+
+## Google Drive Link
+- https://drive.google.com/file/d/1CIpMS__2RmCfV-bPvyX44m9aTESB4Nf5/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
